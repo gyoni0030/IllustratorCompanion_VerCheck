@@ -1,7 +1,7 @@
 # プライバシーポリシー
 最終更新日: 2026/03/19
 
-本アプリ（以下、「本アプリ」）は、ユーザーのプライバシーを尊重し、以下の方針に基づいて情報を取り扱います。
+「Illustrator Companion」および「Illustrator Companion EX」（以下、「本アプリ」）は、ユーザーのプライバシーを尊重し、以下の方針に基づいて情報を取り扱います。
 
 ### ■ 1. 収集する情報
 本アプリは、ユーザーの氏名、住所、メールアドレスなどの個人情報を収集することはありません。
@@ -43,7 +43,7 @@ https://sites.google.com/view/gyonisostudio/contact
 # Privacy Policy
 Last Updated: 2026/03/19
 
-This application ("the App") respects your privacy and handles information as follows:
+"Illustrator Companion" and "Illustrator Companion EX" (hereinafter referred to as "the App") respect your privacy and handle information as follows:
 
 ### 1. Information Collection
 The App does not collect any personal information such as name, address, or email address.
