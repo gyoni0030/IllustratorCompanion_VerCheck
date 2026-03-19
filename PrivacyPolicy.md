@@ -35,7 +35,7 @@
 本ポリシーは、必要に応じて予告なく変更される場合があります。
 
 ### ■ 8. お問い合わせ
-本ポリシーに関するお問い合わせは、以下の連絡先までお願いいたします。
+本ポリシーに関するお問い合わせは、以下の連絡先までお願いいたします: 
 https://sites.google.com/view/gyonisostudio/contact
 
 --------------------------------------------------------------------------
@@ -77,5 +77,5 @@ The author shall not be held responsible for any damages arising from the use of
 This policy may be updated without prior notice.
 
 ### 8. Contact
-For inquiries regarding this policy, please contact:
+For inquiries regarding this policy, please contact: 
 https://sites.google.com/view/gyonisostudio/contact
