@@ -1,5 +1,24 @@
 # Changelog - Illustrator Companion
 
+## [0.9.2] - 2026-03-31
+### Added
+- Added partial-match search (live filter) for script names in the category box
+- Added an option to choose whether to delete script files when removing a registered script or performing an app reset
+- Added a dialog accessible from the main menu to view script execution logs (up to 100 entries, with copy support)
+- Added a feature that displays the script name and note text as a tooltip
+- Extended the script comment tag system to support min/max numeric values and tooltips for argument descriptions
+### Changed
+- Changed the behavior for long script names so they now show an ellipsis when truncated
+- Removed the script caching feature as it provided little practical benefit
+- Updated bundled sample scripts to reflect the latest tag specifications and fixed minor issues
+### Fixed
+- Fixed an issue where some jsxbin scripts could produce errors at runtime due to the method used to send scripts from the launcher to Illustrator
+- Fixed an issue where scripts could be dragged to invalid positions when category filtering was active
+- Fixed an issue where the original shortcut could remain active after assigning a new one
+- Fixed an issue where only the category header was restored at startup and the script filter was not applied
+- Fixed an issue where windows created by a script would appear behind the launcher when the script was executed by double-clicking
+- Fixed an issue where this app's shortcuts could trigger on other applications if Illustrator failed to become active right after this app started
+
 ## [0.9.1] - 2026-03-23
 ### Added
 - Added automatic character encoding detection for script files (.jsx), enabling correct loading in UTF-8 or Shift_JIS
