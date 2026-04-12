@@ -1,5 +1,27 @@
 # Changelog - Illustrator Companion
 
+## [0.9.3] - 2026-04-13
+
+### Added
+- Added a tooltip to the main menu button that displays update details when an update is available
+- Added a link to the author's X profile in the About window
+### Changed
+- Improved support to ensure the app functions correctly with the active (foreground) Illustrator window, even when multiple versions of Illustrator are running simultaneously
+- Improved stability when the app cannot communicate with Illustrator. The app now retries the connection internally and notifies the user when recovery is not possible
+- Refactored the internal processing for app switching to improve stability and optimize memory management
+### Fixed
+- Fixed an issue where update notifications were sometimes displayed even though the app was already up to date
+- Fixed an issue where the caret could move to an incorrect XYWH field when the XYWH caret target was set to the Control panel and shape information was visible
+- Fixed an issue where script execution notifications were not displayed on the correct display in multi‑display setups
+- Fixed an issue where Illustrator's foreground detection could become inaccurate when switching apps via Task View
+- Fixed an issue where clicking the main menu button to close the menu caused it to reopen instead
+- Fixed an issue where pressing Esc or Enter in the search box caused an unexpected system beep
+- Fixed an issue where clicking the launcher's search box or main menu button while Illustrator was not in the foreground did not bring Illustrator to the front
+- Fixed an issue where pressing ESC in the search field after launch, before changing the category, always caused the category to revert to the default
+- Fixed an issue where the category edit dialog opened in an inactive state
+- Fixed an issue where selecting "> Edit Categories..." from the category list sometimes failed to open the category edit dialog and instead inserted the item text into the search box
+- Fixed an issue where the Options or About windows could be opened multiple times from the notification area icon menu
+
 ## [0.9.2] - 2026-03-31
 ### Added
 - Added partial-match search (live filter) for script names in the category box
