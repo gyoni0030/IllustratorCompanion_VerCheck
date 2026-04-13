@@ -1,7 +1,10 @@
-# Changelog - Illustrator Companion
+# Changelog - Illustrator Companion / Illustrator Companion EX
+
+## [0.9.4] - 2026-04-13
+### Changed
+- Changed the global hotkey combination for switching Adobe apps to avoid potential misbehavior in Illustrator
 
 ## [0.9.3] - 2026-04-13
-
 ### Added
 - Added a tooltip to the main menu button that displays update details when an update is available
 - Added a link to the author's X profile in the About window
