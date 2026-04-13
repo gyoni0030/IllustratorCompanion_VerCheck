@@ -1,4 +1,8 @@
-# 更新履歴 - Illustrator Companion
+# 更新履歴 - Illustrator Companion / Illustrator Companion EX
+
+## [0.9.4] - 2026-04-13
+### 変更点
+- Adobe アプリ切り替え用のグローバルホットキーを、Illustrator 誤動作の可能性があったため別の組み合わせに変更
 
 ## [0.9.3] - 2026-04-13
 ### 追加機能
